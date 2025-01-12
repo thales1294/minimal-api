@@ -138,3 +138,9 @@ C:\Users\thale\Documents\minimal-api\obj\Debug\net8.0\refint\minimal-api.dll
 C:\Users\thale\Documents\minimal-api\obj\Debug\net8.0\minimal-api.pdb
 C:\Users\thale\Documents\minimal-api\obj\Debug\net8.0\minimal-api.genruntimeconfig.cache
 C:\Users\thale\Documents\minimal-api\obj\Debug\net8.0\ref\minimal-api.dll
+C:\Users\thale\Documents\minimal-api\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\thale\Documents\minimal-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\thale\Documents\minimal-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\thale\Documents\minimal-api\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\thale\Documents\minimal-api\obj\Debug\net8.0\minimal-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\thale\Documents\minimal-api\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
